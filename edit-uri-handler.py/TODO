@@ -1,0 +1,6 @@
+* add config file, so users can change their preferences
+* add `compare` favorite app
+* add `viewer` favorite app
+* implement URI for OS X
+* implement URI for Ubuntu
+
